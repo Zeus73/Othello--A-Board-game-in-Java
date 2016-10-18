@@ -36,7 +36,7 @@ public class GameManager1 extends JFrame implements ActionListener {
 
 	double[] temporary = {0, 0};
 	JTextArea display = new JTextArea(1,20);
-	Font font = new Font("Times new Roman", Font.BOLD, 14);
+	Font font = new Font("Times new Roman", Font.BOLD, 15);
 
 	public GameManager1()  {
 
